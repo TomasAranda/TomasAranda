@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomasAranda
-- 👀 I’m interested in Fullstack Web Development
+- 👀 I’m interested in Fullstack Web Development and Application Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomas-esteban-aranda/)
 
 <!---
