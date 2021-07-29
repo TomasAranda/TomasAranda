@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasAranda
 - 👀 I’m interested in Fullstack Web Development and Mobile Application Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomas-esteban-aranda/)
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
