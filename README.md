@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TomasAranda
 - 👀 I’m interested in Mobile Application Development and Fullstack Web Development
-- 🌱 I’m currently learning Kotlin for Android Development and Swift for iOS Development
-- 💼 I’m looking for my first job as a Mobile Developer
+- 🌱 I’m currently learning Android Development with Kotlin
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomas-esteban-aranda/)
 
 <!---
