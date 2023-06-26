@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TomasAranda
-- 👀 I’m interested in Mobile Application Development and Fullstack Web Development
+- 🔭 I’m currently working @ [Despegar](https://investor.despegar.com/overview/default.aspx).
+- 👀 I’m interested in Backend Development with Kotlin and Mobile Application Development
 - 🌱 I’m currently learning Android Development with Kotlin
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tomas-esteban-aranda/)
 
